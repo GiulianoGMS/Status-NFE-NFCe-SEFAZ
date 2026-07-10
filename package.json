@@ -1,0 +1,14 @@
+{
+  "name": "nfe-status-oracle-sync",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sincroniza o status do monitor de NFe (monitor.zorte.com.br) para uma tabela Oracle",
+  "main": "sync.js",
+  "scripts": {
+    "sync": "node sync.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "oracledb": "^6.6.0"
+  }
+}
