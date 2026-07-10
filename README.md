@@ -1,5 +1,8 @@
 # Status NFe/NFC-e SEFAZ — Sync para Oracle
 
+<img width="705" height="155" alt="image" src="https://github.com/user-attachments/assets/217fd231-48b7-42cf-bf29-a08e3b56298a" />
+
+
 Script PowerShell que consulta uma API de monitoramento do status dos webservices da SEFAZ e persiste os dados em uma tabela Oracle via `sqlplus`. Usado para alimentar um alerta automático no ERP Consinco.
 
 ---
